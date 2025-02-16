@@ -1,4 +1,4 @@
-# Web3-Social-Media-P2P
+# Web3 Social Media P2P
 **Note: This project is deprecated and no longer maintained.**
 
 ## 📝 Overview
