@@ -43,7 +43,7 @@ After starting the application, open your browser and navigate to `http://localh
 
 ## 🤝 Contributing
 
-Feel free to submit pull requests or open issues!
+Feel free to contribute! Fork the repository, implement improvements, and submit a pull request or open issues. Any feedback is also welcome. 🚀
 
 ## 📜 License
 
